@@ -15,4 +15,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/web-1.0.jar
+    - target/web-1.0.zip
